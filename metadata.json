@@ -1,0 +1,6 @@
+{
+  "name": "JEY VID VISION",
+  "description": "Premium cinematic video streaming platform for Bangla Natok, Hindi Natok, Pakistani Natok, Comedy, and Music Videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
